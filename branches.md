@@ -38,12 +38,12 @@ C -->|bundle| D[esm];
 C -->|bundle| E[deno];
 C -->|bundle| F[umd];
 
-click A href "https://github.com/stdlib-js/stdlib/tree/develop/lib/node_modules/%40stdlib/math/base/assert/is-infinitef"
-click B href "https://github.com/stdlib-js/math-base-assert-is-infinitef/tree/main"
-click C href "https://github.com/stdlib-js/math-base-assert-is-infinitef/tree/production"
-click D href "https://github.com/stdlib-js/math-base-assert-is-infinitef/tree/esm"
-click E href "https://github.com/stdlib-js/math-base-assert-is-infinitef/tree/deno"
-click F href "https://github.com/stdlib-js/math-base-assert-is-infinitef/tree/umd"
+%% click A href "https://github.com/stdlib-js/stdlib/tree/develop/lib/node_modules/%40stdlib/math/base/assert/is-infinitef"
+%% click B href "https://github.com/stdlib-js/math-base-assert-is-infinitef/tree/main"
+%% click C href "https://github.com/stdlib-js/math-base-assert-is-infinitef/tree/production"
+%% click D href "https://github.com/stdlib-js/math-base-assert-is-infinitef/tree/esm"
+%% click E href "https://github.com/stdlib-js/math-base-assert-is-infinitef/tree/deno"
+%% click F href "https://github.com/stdlib-js/math-base-assert-is-infinitef/tree/umd"
 ```
 
 [stdlib-url]: https://github.com/stdlib-js/stdlib/tree/develop/lib/node_modules/%40stdlib/math/base/assert/is-infinitef
