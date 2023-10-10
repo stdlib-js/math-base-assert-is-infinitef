@@ -42,6 +42,11 @@ limitations under the License.
 ## Usage
 
 ```javascript
+import isInfinitef from 'https://cdn.jsdelivr.net/gh/stdlib-js/math-base-assert-is-infinitef@esm/index.mjs';
+```
+The previous example will load the latest bundled code from the esm branch. Alternatively, you may load a specific version by loading the file from one of the [tagged bundles](https://github.com/stdlib-js/math-base-assert-is-infinitef/tags). For example,
+
+```javascript
 import isInfinitef from 'https://cdn.jsdelivr.net/gh/stdlib-js/math-base-assert-is-infinitef@v0.1.1-esm/index.mjs';
 ```
 
@@ -75,7 +80,7 @@ bool = isInfinitef( -Infinity );
 
 import PINF from 'https://cdn.jsdelivr.net/gh/stdlib-js/constants-float32-pinf@esm/index.mjs';
 import NINF from 'https://cdn.jsdelivr.net/gh/stdlib-js/constants-float32-ninf@esm/index.mjs';
-import isInfinitef from 'https://cdn.jsdelivr.net/gh/stdlib-js/math-base-assert-is-infinitef@v0.1.1-esm/index.mjs';
+import isInfinitef from 'https://cdn.jsdelivr.net/gh/stdlib-js/math-base-assert-is-infinitef@esm/index.mjs';
 
 var bool = isInfinitef( PINF );
 // returns true
